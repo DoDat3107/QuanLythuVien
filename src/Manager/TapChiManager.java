@@ -1,6 +1,5 @@
 package Manager;
 
-import module.Bao;
 import module.Tapchi;
 
 import java.util.ArrayList;

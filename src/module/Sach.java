@@ -57,9 +57,9 @@ public class Sach {
     public String toString() {
         return "Sach{" +
                 "id=" + idSach +
-                ", nhaXuatBan='" + nhaXuatBanSach + '\'' +
-                ", tenSach='" + nameSach + '\'' +
-                ", soLuong=" + soluongSach +
+                ", || nhaXuatBan='" + nhaXuatBanSach + '\'' +
+                ", || tenSach='" + nameSach + '\'' +
+                ", || soLuong=" + soluongSach +
                 '}';
     }
 }
